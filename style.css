@@ -1,0 +1,14 @@
+.header {
+  font-size: 48px;
+  text-align: center;
+  background-color: grey;
+}
+.header-text{
+  font-size: 36px;
+}
+li{
+  margin-top: 15px;
+}
+ul{
+  list-style-type: armenian;
+}
